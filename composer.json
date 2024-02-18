@@ -1,0 +1,27 @@
+{
+    "name": "kyimyohan/body-mass-index",
+    "description": "output: healthy|underweight|overweight|obese input: weight&height",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Kyimyohan\\BodyMassIndex\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Kyimyohan\\BodyMassIndex\\Tests\\": "tests"
+        }
+    },
+    "authors": [
+        {
+            "name": "kmhvov",
+            "email": "kyimyohanvov@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require-dev": {
+        "phpunit/phpunit": "^11.0",
+        "phpunit/php-code-coverage": "^11.0"
+    }
+}
