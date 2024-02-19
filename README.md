@@ -2,6 +2,9 @@
 
 Body Mass Index is a PHP library that accept height and weight as input and output may be healthy, underweight, overweight, obese.
 
+Height : 5' 2" = 5.2
+Weight : 105 lb
+
 ## Installation
 
 Use the composer to install.
